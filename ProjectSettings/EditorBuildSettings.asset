@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/beauty xr.unity
     guid: f63945b43b94bf54e97dcf4295832bda
+  - enabled: 0
+    path: Assets/beauty.unity
+    guid: 82d21a21c19483c4193d429675d05ea4
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e8565f5ee62728f45a8a67d59a151cdb,
       type: 2}
