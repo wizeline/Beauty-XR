@@ -11,6 +11,7 @@ Library: C:\github\Beauty-XR\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burs
 --assembly-defines=Microsoft.MixedReality.Toolkit.Accessibility;
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
+--assembly-defines=Unity.Postprocessing.Runtime;
 --assembly-defines=glTFastSchema;
 --assembly-defines=Unity.XR.OpenXR.Features.ConformanceAutomation;
 --assembly-defines=Microsoft.MixedReality.Toolkit.UXCore;
@@ -114,6 +115,7 @@ Library: C:\github\Beauty-XR\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burs
 --assembly-defines=Microsoft.MixedReality.Toolkit.Accessibility;
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
+--assembly-defines=Unity.Postprocessing.Runtime;
 --assembly-defines=glTFastSchema;
 --assembly-defines=Unity.XR.OpenXR.Features.ConformanceAutomation;
 --assembly-defines=Microsoft.MixedReality.Toolkit.UXCore;
@@ -203,6 +205,7 @@ Library: C:\github\Beauty-XR\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burs
 --assembly-defines=Microsoft.MixedReality.Toolkit.Accessibility;
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
+--assembly-defines=Unity.Postprocessing.Runtime;
 --assembly-defines=glTFastSchema;
 --assembly-defines=Unity.XR.OpenXR.Features.ConformanceAutomation;
 --assembly-defines=Microsoft.MixedReality.Toolkit.UXCore;
